@@ -1,0 +1,17 @@
+.titulo-beneficios{
+    color: black;
+}
+ 
+.imgs{
+    display: flex;
+    flex-direction: row;
+    position: absolute;
+    justify-content: center;
+    width: 100px;
+    height: 100px;
+}
+
+.subtitulo{
+    font-size: 15px;
+}
+
